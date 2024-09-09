@@ -1,1 +1,3 @@
 # GitProject
+
+## Author: Minh Tri
